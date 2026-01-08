@@ -6,7 +6,7 @@
   font-style: normal;
 }
 main {
-  background: url("../assets/hero-bg.png");
+  background: url("./assets/hero-bg.png");
 background-repeat: no-repeat;
 width: 1600px;
 height: 674px;
@@ -24,12 +24,10 @@ header nav{
     max-width: 1360px;
     height: 92px;
     width: 85%;
-    /* border: 2px solid red; */
     margin: 0 auto;
 }
 nav #menu{
     list-style-type: none;
-    /* text-decoration: none; */
     gap: 32px;
     display: flex;
 
@@ -85,8 +83,6 @@ nav .btn{
 }
 h1{
     text-align: center;
-    /* width: 770px; */
-    /* height: 168px; */
     padding: 16px 415px;
     font-weight: 900;
 
