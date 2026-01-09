@@ -389,12 +389,6 @@ footer u{
     width: 85%;
     color: #627382;
 }
-hr{
-     /* padding-top: 300px; */
-    /* padding-left: 120px; */
-    /* padding-right: 120px; */
-    /* width: 85%; */
-}
 footer #copy{
     text-align: center;
     color: white;
@@ -402,7 +396,7 @@ footer #copy{
     font-family: Inter;
     font-size: 16px;
 }
- hr{
+ footer hr{
     margin-top: 90px;
     margin-left: 120px;
     margin-right: 120px;
