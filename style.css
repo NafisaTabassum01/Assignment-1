@@ -398,6 +398,10 @@ footer #copy{
 }
  footer hr{
     margin-top: 90px;
-    margin-left: 120px;
-    margin-right: 120px;
+     margin-left: 120px; 
+    margin-right: 120px; 
+    width: 1200px;
+    /* padding-left: 120px; */
+    /* padding-right: 120px; */
+
 }
