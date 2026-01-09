@@ -392,7 +392,7 @@ footer u{
 hr{
      /* padding-top: 300px; */
     /* padding-left: 120px; */
-    padding-right: 120px;
+    /* padding-right: 120px; */
     /* width: 85%; */
 }
 footer #copy{
@@ -401,4 +401,9 @@ footer #copy{
     margin-top: 30px;
     font-family: Inter;
     font-size: 16px;
+}
+ hr{
+    margin-top: 90px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
