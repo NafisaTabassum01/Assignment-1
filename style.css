@@ -38,6 +38,7 @@ nav #menu{
     list-style-type: none;
     gap: 32px;
     display: flex;
+    margin-top: 34px;
 
 }
 header nav #logo{
@@ -199,7 +200,7 @@ margin-top: 32px;
     /* justify-content: space-between; */
     width: 322px;
     height:300px;
-border-radius: 15px;
+border-radius: 10px;
 }
 #second-section{
    margin: 0px auto;
@@ -239,4 +240,61 @@ section{
     margin: 0;
     padding: 0;
     width: 100%;
+}
+.third-section .third-section-content{
+
+display: flex;
+justify-content: space-between;
+margin: 120px;
+gap: 60px;
+font-family: Inter;
+
+}
+.third-section .third-section-content #brain{
+    width: 600px;
+    height: 600px;
+    /* margin-left: 120px; */
+    /* margin-top: 120px; */
+
+}
+.third-section .third-section-content p{
+    font-size: 16px;
+    font-family: Inter;
+    line-height: 20px;
+    color: #627382;
+}
+.third-section-content ul{
+    list-style: none;
+    margin-top: 40px;
+    /* line-height: 20px; */
+
+
+
+}
+.third-section-content li{
+    margin: 8px;
+}
+.third-section .third-section-content #second-brain{
+ font-size: 48px;
+ /* width: 700px; */
+ /* height: 116px; */
+ font-weight: bold;
+ line-height: 50px;
+ color: black;
+ margin: 0 auto;
+}
+.third-section .third-section-content #pera{
+    height: 116px;
+    width: 700px;
+}
+.third-section .third-section-content h5{
+    color: #469165;
+    font-family: Inter;
+    font-size: 16px;
+}
+.third-section .third-section-content #text{
+    margin-top: 70px;
+}
+.third-section .third-section-content #para-2{
+    line-height: 22px;
 }
