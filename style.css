@@ -476,6 +476,8 @@ footer #copy{
     width: 85%;
     max-width: 1350PX;
     margin-bottom: 120px;
+    border: 1px solid #F7F6F2;
+    border-radius: 12px;
 
 }
 #btn-3{
