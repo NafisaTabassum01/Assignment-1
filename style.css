@@ -94,6 +94,8 @@ h1{
     text-align: center;
     padding: 16px 415px;
     font-weight: 900;
+    width: 770px;
+    height: 168px;
 
 
 }
@@ -103,7 +105,8 @@ h1{
     color:white;
     font-size: 18px;
     margin: 0 auto;
-    line-height: 24px;
+    line-height: 30px;
+    font-family: Inter;
     /* line-height: 24; */
 }
 .first-section .hero-button{
@@ -388,4 +391,11 @@ hr{
     /* padding-left: 120px; */
     padding-right: 120px;
     /* width: 85%; */
+}
+footer #copy{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    font-family: Inter;
+    font-size: 16px;
 }
